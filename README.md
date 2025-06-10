@@ -50,17 +50,17 @@
 ## Инструкция к настройке
 
 ### Linux
-1.	**Переместите script.py в /opt/evotor_reports/.
-2.	**Создайте файлы evotor_token.txt (токен доступа к API Эвотора), telegram_token.txt (токен Telegram бота), google_credentials.txt (ключи доступа к Google Sheets) в /opt/evotor_reports/.
-3.	**Запустите setup.sh, дождитесь окончания выполнения.
-4.	**Запустите start_script.sh, дождитесь окончания выполнения. 
-5.	**Запустите start_bot.sh, дождитесь окончания выполнения.
-6.	**Система готова к использованию.
+1.	**Переместите script.py в /opt/evotor_reports/**.
+2.	**Создайте файлы evotor_token.txt (токен доступа к API Эвотора), telegram_token.txt (токен Telegram бота), google_credentials.txt (ключи доступа к Google Sheets) в /opt/evotor_reports/**.
+3.	**Запустите setup.sh, дождитесь окончания выполнения**.
+4.	**Запустите start_script.sh, дождитесь окончания выполнения.** 
+5.	**Запустите start_bot.sh, дождитесь окончания выполнения**.
+6.	**Система готова к использованию**.
 
 ### Windows:
-1.	**Переместите script.py в C:\EvotorReports\.
-2.	**Создайте файлы evotor_token.txt (токен доступа к API Эвотора), telegram_token.txt (токен Telegram бота), google_credentials.txt (ключи доступа к Google Sheets) в C:\EvotorReports\.
-3.	**Запустите setup.bat, дождитесь окончания выполнения.
-4.	**Запустите start_script.bat, дождитесь окончания выполнения. 
-5.	**Запустите start_bot.sh, дождитесь окончания выполнения.
-6.	**Система готова к использованию.
+1.	**Переместите script.py в C:\EvotorReports\**.
+2.	**Создайте файлы evotor_token.txt (токен доступа к API Эвотора), telegram_token.txt (токен Telegram бота), google_credentials.txt (ключи доступа к Google Sheets) в C:\EvotorReports\**.
+3.	**Запустите setup.bat, дождитесь окончания выполнения**.
+4.	**Запустите start_script.bat, дождитесь окончания выполнения**. 
+5.	**Запустите start_bot.sh, дождитесь окончания выполнения**.
+6.	**Система готова к использованию**.
